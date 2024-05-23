@@ -21,17 +21,21 @@ body {
 
 /* Header */
 header {
-    background-color: blue;
+    background-color: lightcoral;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
 }
 
 /* Main */
 main {
-    background-color: yellow;
+    background-color: lightblue;
     /* Make main element take up surplus space to push footer down */
     Flex: 1 0 auto;
 }
 
 /* Footer */
 footer {
-    background-color: red
+    background-color: orange;
 }
