@@ -140,6 +140,23 @@ main {
     margin: 5px 0;
 }
 
+/* Circle cover image */
+#circle-cover-bg {
+    background: url(../images/runner-reasons-image.webp) no-repeat top center/cover;
+    height: 90vw;
+    width: 90vw;
+    margin: 20px 0;
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+#benefits-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 
 /* Footer */
 #social-networks {
